@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[kcd:home|Door43 (kcd)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-kcd|d43-kcd repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-kcd/archive/master.zip|d43-kcd.zip]]
+
+**Recent Changes**
+{{changes>ns = kcd}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/kcd|Ethnologue data]]
+
